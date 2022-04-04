@@ -5,7 +5,7 @@
 body {
    background: linear-gradient(0deg, rgba(134,149,199,1) 0%, rgba(41,37,105,1) 40%);
 	height: 100%;
-	min-width: 1440px;
+	min-width: 1500px;
 }
 .wrapper {
 	min-height: 100%;
